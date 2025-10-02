@@ -8,4 +8,4 @@ learn github
 ## third day: I learned the following commands:
 ### ***-->(git branch)<--*** We use it to know how many branches are avilable in local branch , ***-->(git remote -v)<--*** We use it to know the remote repo
 ### ***-->(git push origin main)<--*** This command used to push data from **local repo** to **remote repo** after using these commands ***(git add fileName , git commit -m "message to explain")***
-### **git config user.name** To get username or **git config user.email** To get user email
+### ***-->(git config user.name)<--*** To get username or ***-->(git config user.email)<--*** To get user email
