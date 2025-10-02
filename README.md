@@ -14,3 +14,4 @@ learn github
 ### ***-->(git config --(global or local) user.name)<--*** To get username or ***-->(git config --(global or local) user.email)<--*** To get user email
 ### ***-->(git config --(global or local) user.name "mina-tharwat")<--*** To set username & ***-->(git config --(global or local) user.email "mina@gmail.com")<--*** To set user email.
 ### ***-->(git config --global --unset user.name|email)<--*** To unset user name or email
+### ***-->(git config -l --show-origin)<--*** It Shows Where This Configurations come from.
