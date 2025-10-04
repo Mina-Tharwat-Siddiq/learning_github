@@ -22,7 +22,7 @@
 # Day Five: I learned how to make branch and push changes to master of the same repo **OR** push changes to .... using these instructions:
 ### ***-->(git branch)<--*** To know the available branches.
 ### ***-->(git branch branchName)<--*** To create new branch.
-### ***-->(git branch -b branchName)<--*** To create new branch and move to it.
+### ***-->(git checkout -b branchName)<--*** To create new branch and move to it.
 ### ***-->(git checkout brancName)<--*** To move from one branch to another.
 ### ***-->(git branch -d branchName)<--*** To remove this branch **but if it contains it will not be deleted**.
 ### ***-->(git branch -d branchName)<--*** To remove this branch **Force delete even if this branch contains data**.
