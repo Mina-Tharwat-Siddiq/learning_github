@@ -27,4 +27,4 @@
 ### ***-->(git branch -d branchName)<--*** To remove this branch **but if it contains it will not be deleted**.
 ### ***-->(git branch -d branchName)<--*** To remove this branch **Force delete even if this branch contains data**.
 ### ***-->(git branch -m BranchNewName)<--*** To rename the branch **Note we must be inside that branch**.
-### ***-->(git merge secondBranchName)<--*** To merge secondeBranch with master branch **We must move to master branch to do this.**
+### ***-->(git merge secondBranchName)<--*** To merge secondeBranch with master branch **We must move to master branch to do this**.
