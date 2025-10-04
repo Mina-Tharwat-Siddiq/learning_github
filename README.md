@@ -26,3 +26,4 @@
 ### ***-->(git checkout brancName)<--*** To move from one branch to another.
 ### ***-->(git branch -d branchName)<--*** To remove this branch **but if it contains it will not be deleted**.
 ### ***-->(git branch -d branchName)<--*** To remove this branch **Force delete even if this branch contains data**.
+### ***-->(git branch -m BranchNewName)<--*** To rename the branch **Note we must be inside that branch**.
