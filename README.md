@@ -28,4 +28,8 @@
 ### ***-->(git branch -D branchName)<--*** To remove this branch **Force delete even if this branch contains data**.
 ### ***-->(git branch -m branchNewName)<--*** To rename the branch **Note we must be inside that branch**.
 ### ***-->(git merge secondBranchName)<--*** To merge secondeBranch with master branch ***We must move to master branch to do this***.
-### ***-->(git puch origin master)<--*** 
+### ***-->(git puch origin secondBranchName)<--*** To make pull request to remote repo 
+# Day Six: I learned how to hide my files from ***Staging area*** using the following instructions:
+### [1] ***-->(git stash)<--*** Used to hide any files from ***Staging Area***
+### [2] ***-->(git stash list)<--*** To know if ***stash empty or full***
+### [3] ***-->(git stash pop)<--*** To unhide any files from ***Stash***
