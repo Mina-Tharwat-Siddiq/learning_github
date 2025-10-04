@@ -16,5 +16,6 @@
 ### ***-->(git config --global --unset user.name|email)<--*** To unset user name or email
 ### ***-->(git config -l --show-origin)<--*** It Shows Where This Configurations come from.
 # Fourth day: I learned how to make repo on my pc and upload it to github using the following instructions:
-### [1] Make folder and name it anything then mode to this folder and write this command ***-->(git init)<--*** to convert this folder from normal To github repo
-### [2] Make any file inside the repo ex) index.html and then move it from **Staging area** to **Working area** using ***-->(git add fileName)<--*** then  move it from **Working area** to **Local repo** using ***-->(git commit -m "message")<--*** then move it from **Local repo** to **Remote repo** using ***-->(git push -u origin master)<--*** we use **-u** to make pull and push from and to the repo at the same time.
+### [1] Make folder and name it anything then move to this folder and write this command ***-->(git init)<--*** to convert this folder from normal To github repo
+### [2] Make any file inside the repo ex) index.html and then move it from **Staging area** to **Working area** using ***-->(git add fileName)<--*** then  move it from **Working area** to **Local repo** using ***-->(git commit -m "message")<--*** 
+### [3]  ***-->(git remote add origin git@github.com:Mina-Tharwat-Siddiq/e-commerce.git)<--*** We use this command to add the repo that I have made on remote repo then we move changes from **Local repo** to **Remote repo** using ***-->(git push -u origin master)<--*** we use **-u** to make pull and push from and to the repo at the same time.
